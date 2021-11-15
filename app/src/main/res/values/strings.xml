@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quizVote</string>
+    <string-array name="position_arrays">
+        <item>President</item>
+        <item>Vice President</item>
+        <item>Secretary</item>
+        <item>Treasurer</item>
+    </string-array>
+</resources>
